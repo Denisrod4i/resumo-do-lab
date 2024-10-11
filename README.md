@@ -4,3 +4,4 @@ Aprendi a criar maquinas virtuais, seguindo modo de compartilhamento- IAAs PAAs 
 Neste novo modulo aprendi como é a contrução de arquitetura no Azure
 Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure, VPN, expressRoute, containers e aplicativos como modelo de serviço PAAs
 Neste novo modulo aprendi sobre armazenamento, data box de 80TB, migração , tipo de migração e o laboratorio de como fazer estes processos
+Neste novo modulo vimos Microsoft entra ID, camadas de segurança, prioridades na segurança e acessos ao usuário
